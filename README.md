@@ -1,0 +1,1 @@
+# AI_Camp_CV_crash_course.v1i.yolov5pytorch
